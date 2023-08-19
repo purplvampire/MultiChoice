@@ -13,6 +13,7 @@
 		AEE89EB22A8F03570063DE96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEE89EB02A8F03570063DE96 /* Main.storyboard */; };
 		AEE89EB42A8F03590063DE96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEE89EB32A8F03590063DE96 /* Assets.xcassets */; };
 		AEE89EB72A8F03590063DE96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEE89EB52A8F03590063DE96 /* LaunchScreen.storyboard */; };
+		AEE89EBF2A8F03D50063DE96 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE89EBE2A8F03D50063DE96 /* ListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AEE89EB32A8F03590063DE96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEE89EB62A8F03590063DE96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEE89EB82A8F03590063DE96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEE89EBE2A8F03D50063DE96 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AEE89EAC2A8F03570063DE96 /* SceneDelegate.swift */,
 				AEE89EAE2A8F03570063DE96 /* ViewController.swift */,
 				AEE89EB02A8F03570063DE96 /* Main.storyboard */,
+				AEE89EBE2A8F03D50063DE96 /* ListTableViewController.swift */,
 				AEE89EB32A8F03590063DE96 /* Assets.xcassets */,
 				AEE89EB52A8F03590063DE96 /* LaunchScreen.storyboard */,
 				AEE89EB82A8F03590063DE96 /* Info.plist */,
@@ -141,6 +144,7 @@
 				AEE89EAF2A8F03570063DE96 /* ViewController.swift in Sources */,
 				AEE89EAB2A8F03570063DE96 /* AppDelegate.swift in Sources */,
 				AEE89EAD2A8F03570063DE96 /* SceneDelegate.swift in Sources */,
+				AEE89EBF2A8F03D50063DE96 /* ListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
